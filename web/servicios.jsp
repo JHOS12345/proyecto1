@@ -12,11 +12,14 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hola mi__jhoi contacto</h1>
+        <h1>Hola mi__jhoi 2</h1>
         <ul>
-            <p>Como tener cansio</p>
+            <li>Inicio</li>
+            <li>
+                version 2
+            </li>
+            
         </ul>
 
     </body>
 </html>
-

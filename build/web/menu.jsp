@@ -13,6 +13,7 @@
     </head>
     <body>
         <h1>Hola mi__jhoi contacto</h1>
+        <%@ include file="menu.jsp"%>
         <ul>
             <p>Como tener cansio</p>
         </ul>
