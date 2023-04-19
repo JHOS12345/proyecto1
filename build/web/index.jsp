@@ -14,8 +14,8 @@
     <body>
         <h1>Hola mi__jhoi</h1>
         <ul>
-            <li>Inicio</li>
-            <li>Quienes somos</li>
+            <li><a href="index.jsp">Inicio</a></li>
+            <li ><a href="quienes.jsp">Quienes somos</a></li>
             <li>Servicios</li>
             <li>Portafolio</li>
             <li>Contacto</li>
@@ -23,3 +23,4 @@
 
     </body>
 </html>
+
